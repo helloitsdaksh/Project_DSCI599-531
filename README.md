@@ -1,6 +1,6 @@
-# Project_DSCI599-531
 
-README - Fairness in Job Ad Click Prediction Using the Criteo/FairJob Dataset
+
+# Project_DSCI599-531 - Fairness in Job Ad Click Prediction Using the Criteo/FairJob Dataset
 =================================================================================
 
 ### Overview
