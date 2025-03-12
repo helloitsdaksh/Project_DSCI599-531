@@ -3,7 +3,7 @@
 # Project_DSCI599-531 - Fairness in Job Ad Click Prediction Using the Criteo/FairJob Dataset
 
 ### Overview
-This submission contains all relevant materials for **Project B**, focusing on the analysis of bias in job ad click prediction using the **Criteo/FairJob dataset**. It includes **Exploratory Data Analysis (EDA), experimental implementations, model training, and evaluation results**.
+This submission contains all relevant materials for Project, focusing on the analysis of bias in job ad click prediction using the **Criteo/FairJob dataset**. It includes **Exploratory Data Analysis (EDA), experimental implementations, model training, and evaluation results**.
 
 ### Contents
 1. **Code**  
